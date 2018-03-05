@@ -1,7 +1,7 @@
 {
-  "name": "discord-music-bot",
+  "name": "Antonia",
   "version": "2.3.0",
-  "description": "Simple music bot for Discord servers.",
+  "description": "Cu King",
   "main": "musicbot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
